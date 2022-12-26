@@ -1,0 +1,882 @@
+[
+    {
+        "className": "slate-50",
+        "colorCode": "#f8fafc"
+    },
+    {
+        "className": "slate-100",
+        "colorCode": "#f1f5f9"
+    },
+    {
+        "className": "slate-200",
+        "colorCode": "#e2e8f0"
+    },
+    {
+        "className": "slate-300",
+        "colorCode": "#cbd5e1"
+    },
+    {
+        "className": "slate-400",
+        "colorCode": "#94a3b8"
+    },
+    {
+        "className": "slate-500",
+        "colorCode": "#64748b"
+    },
+    {
+        "className": "slate-600",
+        "colorCode": "#475569"
+    },
+    {
+        "className": "slate-700",
+        "colorCode": "#334155"
+    },
+    {
+        "className": "slate-800",
+        "colorCode": "#1e293b"
+    },
+    {
+        "className": "slate-900",
+        "colorCode": "#0f172a"
+    },
+    {
+        "className": "gray-50",
+        "colorCode": "#f9fafb"
+    },
+    {
+        "className": "gray-100",
+        "colorCode": "#f3f4f6"
+    },
+    {
+        "className": "gray-200",
+        "colorCode": "#e5e7eb"
+    },
+    {
+        "className": "gray-300",
+        "colorCode": "#d1d5db"
+    },
+    {
+        "className": "gray-400",
+        "colorCode": "#9ca3af"
+    },
+    {
+        "className": "gray-500",
+        "colorCode": "#6b7280"
+    },
+    {
+        "className": "gray-600",
+        "colorCode": "#4b5563"
+    },
+    {
+        "className": "gray-700",
+        "colorCode": "#374151"
+    },
+    {
+        "className": "gray-800",
+        "colorCode": "#1f2937"
+    },
+    {
+        "className": "gray-900",
+        "colorCode": "#111827"
+    },
+    {
+        "className": "zinc-50",
+        "colorCode": "#fafafa"
+    },
+    {
+        "className": "zinc-100",
+        "colorCode": "#f4f4f5"
+    },
+    {
+        "className": "zinc-200",
+        "colorCode": "#e4e4e7"
+    },
+    {
+        "className": "zinc-300",
+        "colorCode": "#d4d4d8"
+    },
+    {
+        "className": "zinc-400",
+        "colorCode": "#a1a1aa"
+    },
+    {
+        "className": "zinc-500",
+        "colorCode": "#71717a"
+    },
+    {
+        "className": "zinc-600",
+        "colorCode": "#52525b"
+    },
+    {
+        "className": "zinc-700",
+        "colorCode": "#3f3f46"
+    },
+    {
+        "className": "zinc-800",
+        "colorCode": "#27272a"
+    },
+    {
+        "className": "zinc-900",
+        "colorCode": "#18181b"
+    },
+    {
+        "className": "neutral-50",
+        "colorCode": "#fafafa"
+    },
+    {
+        "className": "neutral-100",
+        "colorCode": "#f5f5f5"
+    },
+    {
+        "className": "neutral-200",
+        "colorCode": "#e5e5e5"
+    },
+    {
+        "className": "neutral-300",
+        "colorCode": "#d4d4d4"
+    },
+    {
+        "className": "neutral-400",
+        "colorCode": "#a3a3a3"
+    },
+    {
+        "className": "neutral-500",
+        "colorCode": "#737373"
+    },
+    {
+        "className": "neutral-600",
+        "colorCode": "#525252"
+    },
+    {
+        "className": "neutral-700",
+        "colorCode": "#404040"
+    },
+    {
+        "className": "neutral-800",
+        "colorCode": "#262626"
+    },
+    {
+        "className": "neutral-900",
+        "colorCode": "#171717"
+    },
+    {
+        "className": "stone-50",
+        "colorCode": "#fafaf9"
+    },
+    {
+        "className": "stone-100",
+        "colorCode": "#f5f5f4"
+    },
+    {
+        "className": "stone-200",
+        "colorCode": "#e7e5e4"
+    },
+    {
+        "className": "stone-300",
+        "colorCode": "#d6d3d1"
+    },
+    {
+        "className": "stone-400",
+        "colorCode": "#a8a29e"
+    },
+    {
+        "className": "stone-500",
+        "colorCode": "#78716c"
+    },
+    {
+        "className": "stone-600",
+        "colorCode": "#57534e"
+    },
+    {
+        "className": "stone-700",
+        "colorCode": "#44403c"
+    },
+    {
+        "className": "stone-800",
+        "colorCode": "#292524"
+    },
+    {
+        "className": "stone-900",
+        "colorCode": "#1c1917"
+    },
+    {
+        "className": "red-50",
+        "colorCode": "#fef2f2"
+    },
+    {
+        "className": "red-100",
+        "colorCode": "#fee2e2"
+    },
+    {
+        "className": "red-200",
+        "colorCode": "#fecaca"
+    },
+    {
+        "className": "red-300",
+        "colorCode": "#fca5a5"
+    },
+    {
+        "className": "red-400",
+        "colorCode": "#f87171"
+    },
+    {
+        "className": "red-500",
+        "colorCode": "#ef4444"
+    },
+    {
+        "className": "red-600",
+        "colorCode": "#dc2626"
+    },
+    {
+        "className": "red-700",
+        "colorCode": "#b91c1c"
+    },
+    {
+        "className": "red-800",
+        "colorCode": "#991b1b"
+    },
+    {
+        "className": "red-900",
+        "colorCode": "#7f1d1d"
+    },
+    {
+        "className": "orange-50",
+        "colorCode": "#fff7ed"
+    },
+    {
+        "className": "orange-100",
+        "colorCode": "#ffedd5"
+    },
+    {
+        "className": "orange-200",
+        "colorCode": "#fed7aa"
+    },
+    {
+        "className": "orange-300",
+        "colorCode": "#fdba74"
+    },
+    {
+        "className": "orange-400",
+        "colorCode": "#fb923c"
+    },
+    {
+        "className": "orange-500",
+        "colorCode": "#f97316"
+    },
+    {
+        "className": "orange-600",
+        "colorCode": "#ea580c"
+    },
+    {
+        "className": "orange-700",
+        "colorCode": "#c2410c"
+    },
+    {
+        "className": "orange-800",
+        "colorCode": "#9a3412"
+    },
+    {
+        "className": "orange-900",
+        "colorCode": "#7c2d12"
+    },
+    {
+        "className": "amber-50",
+        "colorCode": "#fffbeb"
+    },
+    {
+        "className": "amber-100",
+        "colorCode": "#fef3c7"
+    },
+    {
+        "className": "amber-200",
+        "colorCode": "#fde68a"
+    },
+    {
+        "className": "amber-300",
+        "colorCode": "#fcd34d"
+    },
+    {
+        "className": "amber-400",
+        "colorCode": "#fbbf24"
+    },
+    {
+        "className": "amber-500",
+        "colorCode": "#f59e0b"
+    },
+    {
+        "className": "amber-600",
+        "colorCode": "#d97706"
+    },
+    {
+        "className": "amber-700",
+        "colorCode": "#b45309"
+    },
+    {
+        "className": "amber-800",
+        "colorCode": "#92400e"
+    },
+    {
+        "className": "amber-900",
+        "colorCode": "#78350f"
+    },
+    {
+        "className": "yellow-50",
+        "colorCode": "#fefce8"
+    },
+    {
+        "className": "yellow-100",
+        "colorCode": "#fef9c3"
+    },
+    {
+        "className": "yellow-200",
+        "colorCode": "#fef08a"
+    },
+    {
+        "className": "yellow-300",
+        "colorCode": "#fde047"
+    },
+    {
+        "className": "yellow-400",
+        "colorCode": "#facc15"
+    },
+    {
+        "className": "yellow-500",
+        "colorCode": "#eab308"
+    },
+    {
+        "className": "yellow-600",
+        "colorCode": "#ca8a04"
+    },
+    {
+        "className": "yellow-700",
+        "colorCode": "#a16207"
+    },
+    {
+        "className": "yellow-800",
+        "colorCode": "#854d0e"
+    },
+    {
+        "className": "yellow-900",
+        "colorCode": "#713f12"
+    },
+    {
+        "className": "lime-50",
+        "colorCode": "#f7fee7"
+    },
+    {
+        "className": "lime-100",
+        "colorCode": "#ecfccb"
+    },
+    {
+        "className": "lime-200",
+        "colorCode": "#d9f99d"
+    },
+    {
+        "className": "lime-300",
+        "colorCode": "#bef264"
+    },
+    {
+        "className": "lime-400",
+        "colorCode": "#a3e635"
+    },
+    {
+        "className": "lime-500",
+        "colorCode": "#84cc16"
+    },
+    {
+        "className": "lime-600",
+        "colorCode": "#65a30d"
+    },
+    {
+        "className": "lime-700",
+        "colorCode": "#4d7c0f"
+    },
+    {
+        "className": "lime-800",
+        "colorCode": "#3f6212"
+    },
+    {
+        "className": "lime-900",
+        "colorCode": "#365314"
+    },
+    {
+        "className": "green-50",
+        "colorCode": "#f0fdf4"
+    },
+    {
+        "className": "green-100",
+        "colorCode": "#dcfce7"
+    },
+    {
+        "className": "green-200",
+        "colorCode": "#bbf7d0"
+    },
+    {
+        "className": "green-300",
+        "colorCode": "#86efac"
+    },
+    {
+        "className": "green-400",
+        "colorCode": "#4ade80"
+    },
+    {
+        "className": "green-500",
+        "colorCode": "#22c55e"
+    },
+    {
+        "className": "green-600",
+        "colorCode": "#16a34a"
+    },
+    {
+        "className": "green-700",
+        "colorCode": "#15803d"
+    },
+    {
+        "className": "green-800",
+        "colorCode": "#166534"
+    },
+    {
+        "className": "green-900",
+        "colorCode": "#14532d"
+    },
+    {
+        "className": "emerald-50",
+        "colorCode": "#ecfdf5"
+    },
+    {
+        "className": "emerald-100",
+        "colorCode": "#d1fae5"
+    },
+    {
+        "className": "emerald-200",
+        "colorCode": "#a7f3d0"
+    },
+    {
+        "className": "emerald-300",
+        "colorCode": "#6ee7b7"
+    },
+    {
+        "className": "emerald-400",
+        "colorCode": "#34d399"
+    },
+    {
+        "className": "emerald-500",
+        "colorCode": "#10b981"
+    },
+    {
+        "className": "emerald-600",
+        "colorCode": "#059669"
+    },
+    {
+        "className": "emerald-700",
+        "colorCode": "#047857"
+    },
+    {
+        "className": "emerald-800",
+        "colorCode": "#065f46"
+    },
+    {
+        "className": "emerald-900",
+        "colorCode": "#064e3b"
+    },
+    {
+        "className": "teal-50",
+        "colorCode": "#f0fdfa"
+    },
+    {
+        "className": "teal-100",
+        "colorCode": "#ccfbf1"
+    },
+    {
+        "className": "teal-200",
+        "colorCode": "#99f6e4"
+    },
+    {
+        "className": "teal-300",
+        "colorCode": "#5eead4"
+    },
+    {
+        "className": "teal-400",
+        "colorCode": "#2dd4bf"
+    },
+    {
+        "className": "teal-500",
+        "colorCode": "#14b8a6"
+    },
+    {
+        "className": "teal-600",
+        "colorCode": "#0d9488"
+    },
+    {
+        "className": "teal-700",
+        "colorCode": "#0f766e"
+    },
+    {
+        "className": "teal-800",
+        "colorCode": "#115e59"
+    },
+    {
+        "className": "teal-900",
+        "colorCode": "#134e4a"
+    },
+    {
+        "className": "cyan-50",
+        "colorCode": "#ecfeff"
+    },
+    {
+        "className": "cyan-100",
+        "colorCode": "#cffafe"
+    },
+    {
+        "className": "cyan-200",
+        "colorCode": "#a5f3fc"
+    },
+    {
+        "className": "cyan-300",
+        "colorCode": "#67e8f9"
+    },
+    {
+        "className": "cyan-400",
+        "colorCode": "#22d3ee"
+    },
+    {
+        "className": "cyan-500",
+        "colorCode": "#06b6d4"
+    },
+    {
+        "className": "cyan-600",
+        "colorCode": "#0891b2"
+    },
+    {
+        "className": "cyan-700",
+        "colorCode": "#0e7490"
+    },
+    {
+        "className": "cyan-800",
+        "colorCode": "#155e75"
+    },
+    {
+        "className": "cyan-900",
+        "colorCode": "#164e63"
+    },
+    {
+        "className": "sky-50",
+        "colorCode": "#f0f9ff"
+    },
+    {
+        "className": "sky-100",
+        "colorCode": "#e0f2fe"
+    },
+    {
+        "className": "sky-200",
+        "colorCode": "#bae6fd"
+    },
+    {
+        "className": "sky-300",
+        "colorCode": "#7dd3fc"
+    },
+    {
+        "className": "sky-400",
+        "colorCode": "#38bdf8"
+    },
+    {
+        "className": "sky-500",
+        "colorCode": "#0ea5e9"
+    },
+    {
+        "className": "sky-600",
+        "colorCode": "#0284c7"
+    },
+    {
+        "className": "sky-700",
+        "colorCode": "#0369a1"
+    },
+    {
+        "className": "sky-800",
+        "colorCode": "#075985"
+    },
+    {
+        "className": "sky-900",
+        "colorCode": "#0c4a6e"
+    },
+    {
+        "className": "blue-50",
+        "colorCode": "#eff6ff"
+    },
+    {
+        "className": "blue-100",
+        "colorCode": "#dbeafe"
+    },
+    {
+        "className": "blue-200",
+        "colorCode": "#bfdbfe"
+    },
+    {
+        "className": "blue-300",
+        "colorCode": "#93c5fd"
+    },
+    {
+        "className": "blue-400",
+        "colorCode": "#60a5fa"
+    },
+    {
+        "className": "blue-500",
+        "colorCode": "#3b82f6"
+    },
+    {
+        "className": "blue-600",
+        "colorCode": "#2563eb"
+    },
+    {
+        "className": "blue-700",
+        "colorCode": "#1d4ed8"
+    },
+    {
+        "className": "blue-800",
+        "colorCode": "#1e40af"
+    },
+    {
+        "className": "blue-900",
+        "colorCode": "#1e3a8a"
+    },
+    {
+        "className": "indigo-50",
+        "colorCode": "#eef2ff"
+    },
+    {
+        "className": "indigo-100",
+        "colorCode": "#e0e7ff"
+    },
+    {
+        "className": "indigo-200",
+        "colorCode": "#c7d2fe"
+    },
+    {
+        "className": "indigo-300",
+        "colorCode": "#a5b4fc"
+    },
+    {
+        "className": "indigo-400",
+        "colorCode": "#818cf8"
+    },
+    {
+        "className": "indigo-500",
+        "colorCode": "#6366f1"
+    },
+    {
+        "className": "indigo-600",
+        "colorCode": "#4f46e5"
+    },
+    {
+        "className": "indigo-700",
+        "colorCode": "#4338ca"
+    },
+    {
+        "className": "indigo-800",
+        "colorCode": "#3730a3"
+    },
+    {
+        "className": "indigo-900",
+        "colorCode": "#312e81"
+    },
+    {
+        "className": "violet-50",
+        "colorCode": "#f5f3ff"
+    },
+    {
+        "className": "violet-100",
+        "colorCode": "#ede9fe"
+    },
+    {
+        "className": "violet-200",
+        "colorCode": "#ddd6fe"
+    },
+    {
+        "className": "violet-300",
+        "colorCode": "#c4b5fd"
+    },
+    {
+        "className": "violet-400",
+        "colorCode": "#a78bfa"
+    },
+    {
+        "className": "violet-500",
+        "colorCode": "#8b5cf6"
+    },
+    {
+        "className": "violet-600",
+        "colorCode": "#7c3aed"
+    },
+    {
+        "className": "violet-700",
+        "colorCode": "#6d28d9"
+    },
+    {
+        "className": "violet-800",
+        "colorCode": "#5b21b6"
+    },
+    {
+        "className": "violet-900",
+        "colorCode": "#4c1d95"
+    },
+    {
+        "className": "purple-50",
+        "colorCode": "#faf5ff"
+    },
+    {
+        "className": "purple-100",
+        "colorCode": "#f3e8ff"
+    },
+    {
+        "className": "purple-200",
+        "colorCode": "#e9d5ff"
+    },
+    {
+        "className": "purple-300",
+        "colorCode": "#d8b4fe"
+    },
+    {
+        "className": "purple-400",
+        "colorCode": "#c084fc"
+    },
+    {
+        "className": "purple-500",
+        "colorCode": "#a855f7"
+    },
+    {
+        "className": "purple-600",
+        "colorCode": "#9333ea"
+    },
+    {
+        "className": "purple-700",
+        "colorCode": "#7e22ce"
+    },
+    {
+        "className": "purple-800",
+        "colorCode": "#6b21a8"
+    },
+    {
+        "className": "purple-900",
+        "colorCode": "#581c87"
+    },
+    {
+        "className": "fuchsia-50",
+        "colorCode": "#fdf4ff"
+    },
+    {
+        "className": "fuchsia-100",
+        "colorCode": "#fae8ff"
+    },
+    {
+        "className": "fuchsia-200",
+        "colorCode": "#f5d0fe"
+    },
+    {
+        "className": "fuchsia-300",
+        "colorCode": "#f0abfc"
+    },
+    {
+        "className": "fuchsia-400",
+        "colorCode": "#e879f9"
+    },
+    {
+        "className": "fuchsia-500",
+        "colorCode": "#d946ef"
+    },
+    {
+        "className": "fuchsia-600",
+        "colorCode": "#c026d3"
+    },
+    {
+        "className": "fuchsia-700",
+        "colorCode": "#a21caf"
+    },
+    {
+        "className": "fuchsia-800",
+        "colorCode": "#86198f"
+    },
+    {
+        "className": "fuchsia-900",
+        "colorCode": "#701a75"
+    },
+    {
+        "className": "pink-50",
+        "colorCode": "#fdf2f8"
+    },
+    {
+        "className": "pink-100",
+        "colorCode": "#fce7f3"
+    },
+    {
+        "className": "pink-200",
+        "colorCode": "#fbcfe8"
+    },
+    {
+        "className": "pink-300",
+        "colorCode": "#f9a8d4"
+    },
+    {
+        "className": "pink-400",
+        "colorCode": "#f472b6"
+    },
+    {
+        "className": "pink-500",
+        "colorCode": "#ec4899"
+    },
+    {
+        "className": "pink-600",
+        "colorCode": "#db2777"
+    },
+    {
+        "className": "pink-700",
+        "colorCode": "#be185d"
+    },
+    {
+        "className": "pink-800",
+        "colorCode": "#9d174d"
+    },
+    {
+        "className": "pink-900",
+        "colorCode": "#831843"
+    },
+    {
+        "className": "rose-50",
+        "colorCode": "#fff1f2"
+    },
+    {
+        "className": "rose-100",
+        "colorCode": "#ffe4e6"
+    },
+    {
+        "className": "rose-200",
+        "colorCode": "#fecdd3"
+    },
+    {
+        "className": "rose-300",
+        "colorCode": "#fda4af"
+    },
+    {
+        "className": "rose-400",
+        "colorCode": "#fb7185"
+    },
+    {
+        "className": "rose-500",
+        "colorCode": "#f43f5e"
+    },
+    {
+        "className": "rose-600",
+        "colorCode": "#e11d48"
+    },
+    {
+        "className": "rose-700",
+        "colorCode": "#be123c"
+    },
+    {
+        "className": "rose-800",
+        "colorCode": "#9f1239"
+    },
+    {
+        "className": "rose-900",
+        "colorCode": "#881337"
+    }
+]

@@ -1,0 +1,14 @@
+{
+  "id": "acode.plugin.tailwindPalette",
+  "name": "Tailwind Color Palette",
+  "main": "dist/main.js",
+  "version": "1.0.0",
+  "readme": "readme.md",
+  "icon": "icon.png",
+  "files": ["colors.json"],
+  "author": {
+    "name": "Raunak Raj",
+    "email": "bajrangcoders@gmail.com",
+    "github": "bajrangCoder"
+  }
+}

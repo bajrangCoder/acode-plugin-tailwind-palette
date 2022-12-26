@@ -1,0 +1,34 @@
+#acode-plugin-tailwind-color-palette{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    .outputDiv{
+        height: 100px;
+        width: 100px;
+        padding: 10px;
+        border: none;
+        border-radius: 25px;
+        background: #f8fafc;
+        margin: auto;
+        margin-top: 15px;
+    }
+    .colorSelector{
+        outline: none;
+        padding: 12px;
+        width: 100%;
+        margin-top: 15px;
+        font-size: 24px;
+        color: var(--secondary-text-color);
+    }
+    button{
+        background: var(--button-background-color);
+        color: var(--button-text-color);
+        padding: 10px;
+        border: none;
+        border-radius: 12px;
+        width: 100%;
+        margin-top: 20px;
+        font-size: 16px;
+    }
+}

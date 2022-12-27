@@ -2,7 +2,7 @@
   "id": "acode.plugin.tailwindPalette",
   "name": "Tailwind Color Palette",
   "main": "dist/main.js",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "readme": "readme.md",
   "icon": "icon.png",
   "files": ["colors.json"],

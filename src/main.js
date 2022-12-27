@@ -75,13 +75,13 @@ class TailwindColorPalette {
     }
     
     autocompleteMatch(input){
+        input = input.toLowerCase();
+        
         if (input == '') {
             return [];
         }
-        var reg = new RegExp(input);
-        let suggestion = this.$colorsArr.filter((item) => {
-            return item.className.match(reg);
-        });
+        const regex = new RegExp(input.split('').join('.*'));
+        const suggestion = this.$colorsArr.filter(({className}) => regex.test(className));
         return suggestion;
     }
     
@@ -90,13 +90,20 @@ class TailwindColorPalette {
         this.$ul.innerHTML = '';
         let terms = this.autocompleteMatch(this.$searchBar.value);
         
-        terms.forEach(obj => {
+        if(terms.length == 0){
             const list = tag('li',{
-                textContent: obj.className,
+                textContent: 'No Match',
             });
-            list.onclick = this.insert_input.bind(this,obj.className,obj.colorCode);
             this.$ul.append(list);
-        });
+        }else {
+            terms.forEach(obj => {
+                const list = tag('li',{
+                    textContent: obj.className,
+                });
+                list.onclick = this.insert_input.bind(this,obj.className,obj.colorCode);
+                this.$ul.append(list);
+            });
+        }
     }
     
     insert_color(){

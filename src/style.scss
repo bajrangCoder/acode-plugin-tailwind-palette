@@ -13,13 +13,36 @@
         margin: auto;
         margin-top: 15px;
     }
-    .colorSelector{
-        outline: none;
-        padding: 12px;
-        width: 100%;
-        margin-top: 15px;
-        font-size: 24px;
-        color: var(--secondary-text-color);
+    .inputCont{
+        .result{
+            padding: 5px;
+            display: none;
+            max-height: 150px;
+            overflow: auto;
+            background: var(--popup-background-color);
+            box-shadow: 0 5px 8px var(--box-shadow-color);
+            &::-webkit-scrollbar {
+                width: 10px;
+            }
+            &::-webkit-scrollbar-track {
+                background: var(--secondary-color);
+            }
+            &::-webkit-scrollbar-thumb {
+                background: var(--scrollbar-color);
+            }
+            ul{
+                width: 100%;
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                li{
+                    padding: 8px;
+                    &:hover{
+                        background: var(--accent-color);
+                    }
+                }
+            }
+        }
     }
     button{
         background: var(--button-background-color);

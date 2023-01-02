@@ -1,5 +1,5 @@
 # TailwindColor Palette
-> latest version : **v1.0.2**
+> latest version : **v1.0.4**
 
 TailwindColor Palette 🎨 plugin for Acode for using tailwind colors.
 
